@@ -452,6 +452,16 @@ footer .icon-case:hover {
     margin: 0 0.8rem -0.3rem 0;
     border-radius: 50%;
   }
+    .third {
+    display: grid;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    color: var(--light-gray-blue);
+    background: var(--sat-blue);
+  }
+
 }
 
 /*
